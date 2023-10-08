@@ -1,5 +1,5 @@
-# Shooter Template
-Designed as a minimal starting point for your projects in s&box.
+# S&Box Tower Defense
+A tower defense game project for S&Box
 
 ## Features
 - First person pawn
