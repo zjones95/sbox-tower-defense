@@ -1,0 +1,29 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "td_test",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "td_test",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "facepunch.metal_painted_grey_a_hs#28954",
+        "facepunch.metal_painted_yellow_a_hs#28964",
+        "caro.sky_001#27739"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/td_test.vmap"
+      }
+    }
+  }
+}
